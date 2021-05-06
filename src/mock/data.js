@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I am currently focused in front end with responsive design in mind with technologies such as HTML, CSS, Javascript and Reactjs.',
   paragraphThree:
-    'When im not focused on coding, Im usually out hanging out with friends and enjoying the great outdoors! 🏞',
+    'When im not focused on coding, Im usually hanging out with friends and enjoying the great outdoors! 🏞',
   resume: '', // if no resume, the button will not show up
 };
 
