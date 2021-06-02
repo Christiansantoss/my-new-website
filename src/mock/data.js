@@ -31,30 +31,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'tours.png',
+    title: 'Vacay Tours',
+    info: 'Project showcasing vacation tour spots. Created with react html css javascript.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://singletoursproject.netlify.app/',
+    repo: 'https://github.com/Christiansantoss/vacayTours', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Reviews.png',
+    title: 'Reviews',
+    info: 'Reviews from readers. Created with react html css javascript.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://reviews-review.netlify.app/',
+    repo: 'https://github.com/Christiansantoss/readerReviews', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'bdayreminder.png',
+    title: 'Birthday Reminder',
+    info: 'Project with birthday reminders for user. Created with react html css javascript.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://birthdayproject.netlify.app/',
+    repo: 'https://github.com/Christiansantoss/birthdayReminder', // if no repo, the button will not show up
   },
 ];
 
