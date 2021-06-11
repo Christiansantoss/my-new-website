@@ -31,6 +31,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'reactCart.png',
+    title: 'React Cart',
+    info:
+      'Project showcasing adding items to cart, being able to remove, clearing cart and total amount. Created with react html css javascript.',
+    info2: '',
+    url: 'https://react-kart.netlify.app/',
+    repo: 'https://github.com/Christiansantoss/reactCart', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'tours.png',
     title: 'Vacay Tours',
     info: 'Project showcasing vacation tour spots. Created with react html css javascript.',
